@@ -1,0 +1,13 @@
+body {
+    font-family: "Roboto";font-size:22px;
+}
+
+.jokes{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+h1 {
+    text-decoration: underline;
+
+}
